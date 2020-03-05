@@ -8,5 +8,11 @@ This repository contains a SQL database with precipitation and weather station d
 
 The other part of the repository is a flask app that uses SQLAlchemy to query the database and returns a JSON depending on the endpoint.
 
+## Technologies Used
+- Pandas
+- Matplotlib
+- Flask
+- SQLAlchemy
+
 ## Requirements
 The flask app require the following Python modules: numpy, sqlalchemy, datetime, flask. Use `python3 app.py` to run locally.
